@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container .row .logo {
+  font-size: 15px;
+}
+
+.container .row .logo .mainlogo .logomain {
+  background-color: black;
+}
+/*# sourceMappingURL=style.css.map */
